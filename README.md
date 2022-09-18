@@ -14,10 +14,12 @@ This project's goal is to address some of the most important questions a young e
 2.	Start-up ecosystem expected to witness the growth of consistent annual growth of 12-15% [ministry of commerce and Industry-India]
 
 #Dataset
+
 To examine the funding ecosystem in India, I used the 2018-2020 Start-up Funding Survey. The survey includes the financial data we'll need for our investigation. It has sections for the startup's founding year, location (city), industry/Sector, funders' names, investment amount (in US dollars), and investors' names.
 
 
 #column names and description:
+
 
 Company/Brand: Name of the company/start-up
 
@@ -34,6 +36,7 @@ Investor: Investors
 Amount($): Raised fund
 
 Stage: Round of funding reached
+
 
 
 There are many excellent insights to be gained from this analysis,  hoping questions of this research will be answered to aid in your decision-making when approaching businesses in India or elsewhere.
